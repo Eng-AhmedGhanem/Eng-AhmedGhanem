@@ -25,7 +25,7 @@ Passionate about improving my programming logic, problem-solving, and building r
 
 - [Project 1 ( Stone Paper Scissor )](https://github.com/Eng-AhmedGhanem/Project-1-Stone---Paper---Scissor-)
 - [Project 2 ( Math Game )](https://github.com/Eng-AhmedGhanem/Project-2-Math-Game-)
-- [Project 3 ( Banking System )](https://github.com/Eng-AhmedGhanem/Project-3-Banking-System--)
+- [Project 3 ( Banking System )](https://github.com/Eng-AhmedGhanem/Project-3-Banking-System-)
 - [Project 4 ( ATM System )](https://github.com/Eng-AhmedGhanem/Project-4-ATM-System-)
 
 ---
