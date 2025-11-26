@@ -5,7 +5,7 @@
 <hr>
 
 ### 👋 Hello! I'm **Ahmed Ghanem**  
-A student at the **Higher Institute of Management Information Systems (MIS)** 🎓.
+A student at the **Higher Institute of Management Information Systems (MIS)** 🎓.  
 Currently learning **C++**, **OOP**, and building projects while following **Mohamed Abou Hadhoud’s Roadmap** toward becoming a **.NET Backend Developer**.  
 Passionate about improving my programming logic, problem-solving, and building real projects 💻.
 
@@ -25,11 +25,8 @@ Passionate about improving my programming logic, problem-solving, and building r
 
 - [Project 1 ( Stone Paper Scissor )](https://github.com/Eng-AhmedGhanem/Project-1-Stone---Paper---Scissor-)
 - [Project 2 ( Math Game )](https://github.com/Eng-AhmedGhanem/Project-2-Math-Game-)
-- [Project 3 ( Banking System )](https://github.com/Eng-AhmedGhanem/Project-2-Math-Game-)
+- [Project 3 ( Banking System )](https://github.com/Eng-AhmedGhanem/Project-3-Banking-System--)
 - [Project 4 ( ATM System )](https://github.com/Eng-AhmedGhanem/Project-4-ATM-System-)
-
-
-
 
 ---
 
@@ -68,18 +65,22 @@ Passionate about improving my programming logic, problem-solving, and building r
   <br> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-AhmedGhanem&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" /> 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies  
-![Trophy](https://github-profile-trophy.vercel.app/?username=Eng-AhmedGhanem&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Eng-AhmedGhanem&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Eng-AhmedGhanem?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-AhmedGhanem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-AhmedGhanem&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-AhmedGhanem&theme=tokyonight" alt="GitHub Streak" />
+</div>
 ---
 
 ### 📬 Contact Me  
