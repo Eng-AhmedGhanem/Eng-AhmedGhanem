@@ -65,23 +65,14 @@ Passionate about improving my programming logic, problem-solving, and building r
   <br> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-AhmedGhanem&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" /> 
 </div>
----
+
 
 ## 🏆 GitHub Trophies  
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Eng-AhmedGhanem&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" />
 </div>
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-AhmedGhanem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-AhmedGhanem&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-AhmedGhanem&theme=tokyonight" alt="GitHub Streak" />
-</div>
----
 
 ### 📬 Contact Me  
 <div align="center">
@@ -90,6 +81,12 @@ Passionate about improving my programming logic, problem-solving, and building r
   </a>
   <a href="https://www.linkedin.com/in/ahmed-ghanem-701223321/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/ahmed.ghanem.802192">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://wa.me/01018112508">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
 
