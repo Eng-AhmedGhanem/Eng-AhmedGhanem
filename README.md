@@ -27,7 +27,7 @@ Passionate about improving my programming logic, problem-solving, and building r
 - [Project 2 ( Math Game )](https://github.com/Eng-AhmedGhanem/Project-2-Math-Game-)
 - [Project 3 ( Banking System )](https://github.com/Eng-AhmedGhanem/Project-3-Banking-System-)
 - [Project 4 ( ATM System )](https://github.com/Eng-AhmedGhanem/Project-4-ATM-System-)
-- [Project 5 (Banking System (OOP) )](https://github.com/AhmedYaser-Mt/Project-12-Bank-System_OOP_)
+- [Project 5 (Banking System (OOP) )](https://github.com/Eng-AhmedGhanem/Project-12---Bank-System-OOP-)
 
 
 ---
