@@ -33,8 +33,8 @@ Passionate about improving my programming logic, problem-solving, and building r
 ---
 
 ### 🏆 Achievements & Progress  
-- Finished **11+ courses** from *AbouHadhoud Roadmap* 📘  
-- Solved **350+ programming problems** 💪  
+- Finished **13+ courses** from *AbouHadhoud Roadmap* 📘  
+- Solved 400+ programming problems** 💪  
 - Learned strong basics in **C++**, **OOP**, file handling & logic building
 
 ---
