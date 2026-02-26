@@ -6,14 +6,19 @@
 
 ### 👋 Hello! I'm **Ahmed Ghanem**  
 A student at the **Higher Institute of Management Information Systems (MIS)** 🎓.  
-Currently learning **C++**, **OOP**, and building projects while following **Mohamed Abou Hadhoud’s Roadmap** toward becoming a **.NET Backend Developer**.  
-Passionate about improving my programming logic, problem-solving, and building real projects 💻.
+Currently learning **C++**, **C#**, **OOP**, and **.NET Framework (Windows Forms)** while building projects and following **Mohamed Abou Hadhoud’s Roadmap** toward becoming a **.NET Backend Developer**.  
+Passionate about improving my programming logic, problem-solving, and building real desktop & backend applications 💻.
 
 ---
 
 ### 🛠️ Skills & Tools  
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20Framework-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
@@ -27,23 +32,24 @@ Passionate about improving my programming logic, problem-solving, and building r
 - [Project 2 ( Math Game )](https://github.com/Eng-AhmedGhanem/Project-2-Math-Game-)
 - [Project 3 ( Banking System )](https://github.com/Eng-AhmedGhanem/Project-3-Banking-System-)
 - [Project 4 ( ATM System )](https://github.com/Eng-AhmedGhanem/Project-4-ATM-System-)
-- [Project 5 (Banking System (OOP) )](https://github.com/Eng-AhmedGhanem/Project-12---Bank-System-OOP-)
-
+- [Project 5 ( Banking System (OOP) )](https://github.com/Eng-AhmedGhanem/Project-12---Bank-System-OOP-)
 
 ---
 
 ### 🏆 Achievements & Progress  
 - Finished **13+ courses** from *AbouHadhoud Roadmap* 📘  
-- Solved 400+ programming problems** 💪  
-- Learned strong basics in **C++**, **OOP**, file handling & logic building
+- Solved **400+ programming problems** 💪  
+- Strong foundation in **C++**, **OOP**, file handling & logic building  
+- Started building **Desktop Applications using C# & Windows Forms**
 
 ---
 
 ### 🎯 Currently Working On  
 - Completing **Abou-Hadhoud Roadmap**  
-- Learning **C++** deeply & understanding OOP correctly  
+- Deepening my knowledge in **C++ & C# OOP**  
+- Learning **.NET Framework (Windows Forms)** practically  
 - Building more projects for practice  
-- Improving my GitHub & LinkedIn portfolio
+- Improving my GitHub & LinkedIn portfolio  
 
 ---
 
@@ -68,13 +74,14 @@ Passionate about improving my programming logic, problem-solving, and building r
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-AhmedGhanem&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" /> 
 </div>
 
+---
 
 ## 🏆 GitHub Trophies  
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Eng-AhmedGhanem&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" />
 </div>
 
-
+---
 
 ### 📬 Contact Me  
 <div align="center">
@@ -98,7 +105,7 @@ Passionate about improving my programming logic, problem-solving, and building r
 // Always learning, always improving
 class AhmedGhanem {
 public:
-  string track = "C++ / .NET Backend (Roadmap)";
+  string track = "C++ / C# / .NET Backend (Roadmap)";
   string passion = "Problem Solving & Building Projects";
   void sayHi() { cout << "Thanks for visiting my profile! 🚀"; }
 };
